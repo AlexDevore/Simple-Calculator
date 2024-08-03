@@ -18,12 +18,6 @@ To compile and run this application, you need a C++ compiler installed on your m
 
 ### Usage
 
-To run the compiled program, use the following command:
-
-```bash
-./calculator
-```
-
 1. The program will prompt you to enter the first number.
 2. Enter the second number.
 3. Enter the operator (`+`, `-`, `*`, `/`, `^`).
