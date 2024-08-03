@@ -34,51 +34,6 @@ Enter operator (+, -, *, /, ^ or 'q' to quit): +
 5 + 3 = 8
 ```
 
-## Installation and Usage Instructions (for Contributors)
-
-### Getting Started
-
-1. Fork the repository on GitHub.
-2. Clone your forked repository:
-
-    ```bash
-    git clone https://github.com/yourusername/calculator-app.git
-    ```
-
-3. Navigate to the project directory:
-
-    ```bash
-    cd calculator-app
-    ```
-
-4. Create a new branch for your feature or bugfix:
-
-    ```bash
-    git checkout -b feature-name
-    ```
-
-5. Make your changes and commit them with descriptive messages:
-
-    ```bash
-    git commit -m "Add feature: description"
-    ```
-
-6. Push your branch to your forked repository:
-
-    ```bash
-    git push origin feature-name
-    ```
-
-7. Open a pull request on the original repository.
-
-### Building from Source
-
-To build the project from source, run the following command:
-
-```bash
-g++ -o calculator calculator.cpp
-```
-
 ## Contributor Expectations
 
 If you want to contribute to this project, please follow these guidelines:
