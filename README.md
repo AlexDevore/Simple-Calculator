@@ -16,26 +16,6 @@ This Calculator Application is designed to provide a straightforward interface f
 
 To compile and run this application, you need a C++ compiler installed on your machine. The GNU Compiler Collection (GCC) is commonly used.
 
-### Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/calculator-app.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd calculator-app
-    ```
-
-3. Compile the source code:
-
-    ```bash
-    g++ -o calculator calculator.cpp
-    ```
-
 ### Usage
 
 To run the compiled program, use the following command:
