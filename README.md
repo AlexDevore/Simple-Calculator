@@ -18,6 +18,7 @@ Usage
     Enter the operator (+, -, *, /, ^).
 
 You can quit the application at any point by entering q.
+
 Example
 
 bash
