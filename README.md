@@ -129,7 +129,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [GNU Compiler Collection (GCC)](https://gcc.gnu.org/)
 
 Feel free to reach out with any questions or suggestions!
-
----
-
-This README provides a clear, structured, and detailed guide for both end-users and contributors, following your guidelines to ensure it is comprehensive and easy to follow.
